@@ -42,8 +42,8 @@
             </tr>
             <tr>
                 <td>Select image to upload:</td>
-                <input type="file" name="photo" id="photo">
-                <input type="submit" value="photo" name="submit">
+                <td><input type="file" name="photo" id="photo"></td>
+                <td><input type="submit" value="submit" name="submit"></td>
             </tr>
             <tr>
                 <td>Description:</td>
